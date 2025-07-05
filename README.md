@@ -27,5 +27,5 @@ Este repositorio contiene el script de Stata y los resultados asociados al traba
 
 ## 📬 Contacto
 
-Para cualquier duda sobre el contenido de este repositorio, puedes escribir a [tu correo aquí].
+Para cualquier duda sobre el contenido de este repositorio, puedes escribir a [espinozasoto15j@gmail.com].
 
