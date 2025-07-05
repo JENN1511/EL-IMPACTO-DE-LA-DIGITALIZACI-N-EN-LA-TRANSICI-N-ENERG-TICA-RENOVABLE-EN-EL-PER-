@@ -14,16 +14,11 @@ Este repositorio contiene el script de Stata y los resultados asociados al traba
 
 ## 🧪 Archivos
 
-- `script/main.do`: script de Stata con el código completo para cargar datos, limpiar y estimar los modelos.
-- `resultados/resultados.log`: log con la salida directa de Stata (puede visualizarse en texto plano).
-- `resultados/tabla_resultados.pdf`: tabla de resultados finales exportada en PDF.
-- `doc/resumen_metodologia.pdf`: descripción metodológica breve (opcional).
+- `script/mainET.do`: script de Stata con el código completo para cargar datos, limpiar y estimar los modelos.
 
 ## ⚙️ Herramientas utilizadas
 
 - **Stata** (versión usada: [14])
-- **Excel** para organización inicial de datos
-- **LaTeX** (`article` para informe, `beamer` para presentación)
 
 ## 📬 Contacto
 
