@@ -1,6 +1,6 @@
 # Impacto del acceso a internet en la transición energética en el Perú
 
-Este repositorio contiene el script de Stata y los resultados asociados al trabajo de investigación desarrollado como parte del curso Seminario de Investigación I y II (2023-II).
+Este repositorio contiene el script de Stata y los resultados asociados al trabajo de investigación desarrollado como parte del curso Seminario de Investigación I y II. (UCSUR 2024)
 
 ## 📄 Descripción general
 
@@ -21,7 +21,7 @@ Este repositorio contiene el script de Stata y los resultados asociados al traba
 
 ## ⚙️ Herramientas utilizadas
 
-- **Stata** (versión usada: [tu versión])
+- **Stata** (versión usada: [14])
 - **Excel** para organización inicial de datos
 - **LaTeX** (`article` para informe, `beamer` para presentación)
 
